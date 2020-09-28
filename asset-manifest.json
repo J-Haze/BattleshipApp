@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.d00daf12.chunk.css",
-    "main.js": "/static/js/main.1d40550d.chunk.js",
-    "main.js.map": "/static/js/main.1d40550d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.aad17668.js",
-    "runtime-main.js.map": "/static/js/runtime-main.aad17668.js.map",
-    "static/js/2.ed460197.chunk.js": "/static/js/2.ed460197.chunk.js",
-    "static/js/2.ed460197.chunk.js.map": "/static/js/2.ed460197.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.718345ea756b7510a6a9db3208aa4625.js": "/precache-manifest.718345ea756b7510a6a9db3208aa4625.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d00daf12.chunk.css.map": "/static/css/main.d00daf12.chunk.css.map",
-    "static/js/2.ed460197.chunk.js.LICENSE.txt": "/static/js/2.ed460197.chunk.js.LICENSE.txt",
-    "static/media/battleship.png": "/static/media/battleship.3bcbc474.png",
-    "static/media/losing-image.png": "/static/media/losing-image.cb9575d0.png",
-    "static/media/winning-image.png": "/static/media/winning-image.bbc758c8.png"
+    "main.css": "/BattleshipApp/static/css/main.d00daf12.chunk.css",
+    "main.js": "/BattleshipApp/static/js/main.6d9d462c.chunk.js",
+    "main.js.map": "/BattleshipApp/static/js/main.6d9d462c.chunk.js.map",
+    "runtime-main.js": "/BattleshipApp/static/js/runtime-main.2aff9dec.js",
+    "runtime-main.js.map": "/BattleshipApp/static/js/runtime-main.2aff9dec.js.map",
+    "static/js/2.ed460197.chunk.js": "/BattleshipApp/static/js/2.ed460197.chunk.js",
+    "static/js/2.ed460197.chunk.js.map": "/BattleshipApp/static/js/2.ed460197.chunk.js.map",
+    "index.html": "/BattleshipApp/index.html",
+    "precache-manifest.f9c2ba8a05d2d7d6def781e91ccef84d.js": "/BattleshipApp/precache-manifest.f9c2ba8a05d2d7d6def781e91ccef84d.js",
+    "service-worker.js": "/BattleshipApp/service-worker.js",
+    "static/css/main.d00daf12.chunk.css.map": "/BattleshipApp/static/css/main.d00daf12.chunk.css.map",
+    "static/js/2.ed460197.chunk.js.LICENSE.txt": "/BattleshipApp/static/js/2.ed460197.chunk.js.LICENSE.txt",
+    "static/media/battleship.png": "/BattleshipApp/static/media/battleship.3bcbc474.png",
+    "static/media/losing-image.png": "/BattleshipApp/static/media/losing-image.cb9575d0.png",
+    "static/media/winning-image.png": "/BattleshipApp/static/media/winning-image.bbc758c8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.aad17668.js",
+    "static/js/runtime-main.2aff9dec.js",
     "static/js/2.ed460197.chunk.js",
     "static/css/main.d00daf12.chunk.css",
-    "static/js/main.1d40550d.chunk.js"
+    "static/js/main.6d9d462c.chunk.js"
   ]
 }
