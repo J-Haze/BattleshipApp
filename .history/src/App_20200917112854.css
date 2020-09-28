@@ -1,0 +1,78 @@
+/* test */
+:root{
+    --black: #1B262C;
+}
+
+
+header {
+    border: 1px solid black;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+div {
+    border: 1px solid black;
+}
+
+#how-to:hover{
+    cursor: pointer;
+}
+
+#game{
+    width: 1000px;
+    height: 800px;
+    display: flex;
+    border: 1px solid blue;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.column{
+    width: 50%;
+    height: 100%;
+    border: 1px solid red;
+}
+
+.row{
+    display: flex;
+    height: 30px;
+}
+
+.square{
+    height: 100%;
+    width: 10%;
+}
+
+.ship{
+    background-color:gray;
+    height: 100%;
+    width: 100%;
+}
+
+.hit{
+    background-color:red;
+    height: 100%;
+    width: 100%;
+}
+
+.miss{
+    background-color:lightblue;
+    height: 100%;
+    width: 100%;
+}
+
+.sunk{
+    background-color:black;
+    height: 100%;
+    width: 100%;
+}
+
+.empty{
+    /* background-color: yellow; */
+    height: 100%;
+    width: 100%;
+}

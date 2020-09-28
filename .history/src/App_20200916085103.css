@@ -1,0 +1,42 @@
+/* test */
+:root{
+    --black: #1B262C;
+}
+
+
+header {
+    border: 1px solid black;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+div {
+    border: 1px solid black;
+}
+
+#how-to:hover{
+    cursor: pointer;
+}
+
+#game{
+    width: 1000px;
+    height: 800px;
+    display: flex;
+    border: 1px solid blue;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.column{
+    width: 50%;
+    height: 100%;
+    border: 1px solid red;
+}
+
+.square{
+    height: 10px;
+}

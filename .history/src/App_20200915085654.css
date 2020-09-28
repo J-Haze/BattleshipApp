@@ -1,0 +1,24 @@
+/* test */
+:root{
+    --black: #1B262C;
+}
+
+
+header {
+    border: 1px solid black;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+div {
+    border: 1px solid black;
+}
+
+#game{
+    width: 500px;
+}
+
