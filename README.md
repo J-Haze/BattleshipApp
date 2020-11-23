@@ -25,5 +25,5 @@ Create an interactive To-Do list. The app shows off my ability to create a funct
 
 ### Picture: ###
 
-[Image1 of App](./ReadMe-Images/ReadMe1.png)
-[Image2 of App](./ReadMe-Images/ReadMe2.png)
+![Image1 of App](./ReadMe-Images/ReadMe1.png)
+![Image2 of App](./ReadMe-Images/ReadMe2.png)
